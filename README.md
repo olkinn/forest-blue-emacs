@@ -5,7 +5,7 @@
 
 ### How to install
 
-Save the [forest-blue-theme.el](https://github.com/alloy-d/forest-blue-emacs/master/forest-blue-theme.el) file to
+Save the [forest-blue-theme.el](https://github.com/olkinn/forest-blue-emacs/blob/master/forest-blue-theme.el) file to
 `YOUR_EMACS_PLUGIN_DIRECTORY`, then add the following to your `.emacs`:
 
   ```elisp

@@ -8,8 +8,11 @@
 Save the [forest-blue-theme.el](https://github.com/alloy-d/forest-blue-emacs/master/forest-blue-theme.el) file to
 `YOUR_EMACS_PLUGIN_DIRECTORY`, then add the following to your `.emacs`:
 
-    (load "~/YOUR_EMACS_PLUGIN_DIRECTORY/color-theme-molokai.el")
-    (color-theme-molokai)
+  ```elisp
+  (load "~/YOUR_EMACS_PLUGIN_DIRECTORY/forest-blue-theme.el")
+  (load-theme 'forest-blue)
+  ```
+
 
 ### Screenshots
 #### Console Emacs

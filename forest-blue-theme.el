@@ -1,4 +1,3 @@
-
 ;;; forest-blue-theme.el --- Emacs theme with a dark background.
 
 ;; Copyright (C) 2014 , olkinn
@@ -261,4 +260,4 @@
 ;; no-byte-compile: t
 ;; End:
 
-;;; forest-blue-theme.el ends here-
+;;; forest-blue-theme.el ends here
